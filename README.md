@@ -1,6 +1,5 @@
 # page-homework
-https://app.diagrams.net/#HNoNFake%2Fpage-homework%2Fmain%2FUntitled%20Diagram.drawio
-
+https://github.com/NoNFake/page-homework/blob/main/README.md
 
 
 
